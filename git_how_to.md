@@ -45,3 +45,11 @@ git merge
 ```sh
 git clone url
 ```
+Отправить репозиторий
+```sh
+git push
+```
+Отправить репозиторий
+```sh
+git pull
+```
