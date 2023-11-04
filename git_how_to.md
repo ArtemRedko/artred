@@ -39,4 +39,9 @@ git branch branch_name
 ```sh
 git merge
 ```
+## Работа с удаленными репозиториями
 
+Склонировать репозиторий
+```sh
+git clone url
+```
